@@ -1,1 +1,5 @@
-turtle
+### DA RULES
+- NO MUTATION. CHANGE IS SCARY!
+
+### DA (OPTIONAL) HARDMODE RULES
+- NO ASSIGNMENT. DONT USE =. (== is still fine)

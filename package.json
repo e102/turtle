@@ -1,0 +1,18 @@
+{
+  "name": "turtle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/e102/turtle.git",
+  "author": "Srdjan Miletic <srdjanmiletic2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^2.0.3"
+  },
+  "devDependencies": {
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo 'potato'"
+  }
+}
